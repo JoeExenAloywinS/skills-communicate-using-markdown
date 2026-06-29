@@ -1,7 +1,7 @@
 # Daily Learning
 
 ## Morning Planning
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Markdown supports 3 types of common lists. They include:
 
 ## Unordered list
